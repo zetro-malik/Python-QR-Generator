@@ -2,7 +2,7 @@
 
 A simple QR code generator desktop application built using Python and Tkinter.
 
-![QR Code Generator App]([https://example.com/screenshot.png](https://github.com/zetro-malik/qr_generator/blob/master/window.png))
+![QR Code Generator App]([https://github.com/zetro-malik/qr_generator/blob/master/window.png])
 
 ## Introduction
 
